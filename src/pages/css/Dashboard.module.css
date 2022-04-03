@@ -1,0 +1,29 @@
+.navbar{
+    width: 100%;
+
+}
+
+.navbarlogo{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 30px;
+    color: #4E3586;
+    margin-left: 10%;
+}
+#linklar{
+ margin: auto;
+margin-right: 40px;
+
+}
+.link{
+    margin: auto;
+    margin-right: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4E3586;
+}
